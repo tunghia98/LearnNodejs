@@ -1,0 +1,27 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "Học Nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tunghia98/LearnNodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "tunghia98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tunghia98/LearnNodejs/issues"
+  },
+  "homepage": "https://github.com/tunghia98/LearnNodejs#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
